@@ -1,0 +1,4 @@
+mongo --/norc
+mongo --norc
+brew untap mongodb/brew && brew tap mongodb/brew
+clear

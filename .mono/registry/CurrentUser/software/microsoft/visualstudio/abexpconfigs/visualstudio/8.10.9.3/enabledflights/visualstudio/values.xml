@@ -1,0 +1,16 @@
+<values>
+<value name="vsformacaa"
+type="string">false</value>
+<value name="fAsyncFileOpenFlightCF"
+type="string">false</value>
+<value name="fAsyncFileOpenFlight"
+type="string">true</value>
+<value name="linkscarouseltfl"
+type="string">true</value>
+<value name="productivitycarouseltf"
+type="string">false</value>
+<value name="azure_links_tf"
+type="string">true</value>
+<value name="Roslyn.ToggleBlockComment.NoUsed"
+type="string">true</value>
+</values>
